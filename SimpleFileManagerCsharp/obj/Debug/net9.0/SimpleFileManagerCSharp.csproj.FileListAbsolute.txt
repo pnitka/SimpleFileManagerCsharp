@@ -1,0 +1,15 @@
+D:\Public\SimpleFileManagerCSharp\bin\Debug\net9.0\SimpleFileManagerCSharp.exe
+D:\Public\SimpleFileManagerCSharp\bin\Debug\net9.0\SimpleFileManagerCSharp.deps.json
+D:\Public\SimpleFileManagerCSharp\bin\Debug\net9.0\SimpleFileManagerCSharp.runtimeconfig.json
+D:\Public\SimpleFileManagerCSharp\bin\Debug\net9.0\SimpleFileManagerCSharp.dll
+D:\Public\SimpleFileManagerCSharp\bin\Debug\net9.0\SimpleFileManagerCSharp.pdb
+D:\Public\SimpleFileManagerCSharp\obj\Debug\net9.0\SimpleFileManagerCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Public\SimpleFileManagerCSharp\obj\Debug\net9.0\SimpleFileManagerCSharp.AssemblyInfoInputs.cache
+D:\Public\SimpleFileManagerCSharp\obj\Debug\net9.0\SimpleFileManagerCSharp.AssemblyInfo.cs
+D:\Public\SimpleFileManagerCSharp\obj\Debug\net9.0\SimpleFileManagerCSharp.csproj.CoreCompileInputs.cache
+D:\Public\SimpleFileManagerCSharp\obj\Debug\net9.0\SimpleFileManagerCSharp.sourcelink.json
+D:\Public\SimpleFileManagerCSharp\obj\Debug\net9.0\SimpleFileManagerCSharp.dll
+D:\Public\SimpleFileManagerCSharp\obj\Debug\net9.0\refint\SimpleFileManagerCSharp.dll
+D:\Public\SimpleFileManagerCSharp\obj\Debug\net9.0\SimpleFileManagerCSharp.pdb
+D:\Public\SimpleFileManagerCSharp\obj\Debug\net9.0\SimpleFileManagerCSharp.genruntimeconfig.cache
+D:\Public\SimpleFileManagerCSharp\obj\Debug\net9.0\ref\SimpleFileManagerCSharp.dll
